@@ -1,2 +1,5 @@
 # bazel-rules_foreign_cc-example
-Example of rules_foreign_cc usage with Bazel
+Example usage of `rules_foreign_cc` with Bazel
+
+to build: `bazel build :testit`
+to run: `./bazel-bin/testit`
